@@ -1,4 +1,5 @@
-const numUser = requestNum();
+requestNum();
+
 
 const nArray = generatorArray(numUser, 2);
-console.log(newArray);
+console.log(nArray);
