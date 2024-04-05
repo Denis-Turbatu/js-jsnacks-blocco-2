@@ -7,3 +7,9 @@ function checkLength() {
         console.log(word1, "word1");
     }
 }
+
+function printElem(printElem) {
+    const printToElem = document.getElementById("result");
+    // console.log(printToElem);
+    printToElem = `<li> ${printElem} </li>`
+}
