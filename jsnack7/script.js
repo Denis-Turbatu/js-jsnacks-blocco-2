@@ -20,5 +20,5 @@ console.log("Questi sono i nomi originari: ", arrayA);
 
 // LOGICA
 
-rimuoviDallaCoda();
+rimuoviDallaTesta();
 console.log(arrayB);
